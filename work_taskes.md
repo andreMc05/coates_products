@@ -3,8 +3,8 @@
 characters in their names.
 - [X] Prevent the user from deleting a product that is "available"
 - [X] Add an "Are you sure?" confirmation when the user attempts to delete a product.
-- [] Add some unit tests where appropriate.
-- [] Optional: Make any other changes that you think could improve the user experience, code quality, or
+- [X] Add some unit tests where appropriate.
+- [X] Optional: Make any other changes that you think could improve the user experience, code quality, or
 app style (feel free to show off!)
 
 # What I've Done
